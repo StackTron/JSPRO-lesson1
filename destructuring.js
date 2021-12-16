@@ -1,4 +1,4 @@
-// destructuring ============================
+// destructuring ============================+++++++
 
 const arr = ['first', 'second', 'new'];
 
